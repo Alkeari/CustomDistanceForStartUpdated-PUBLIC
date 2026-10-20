@@ -1,0 +1,7 @@
+<GameInfo>
+	<Parameters>
+		<Replace ParameterId="StartDistanceMajorCivs" Name="LOC_START_DISTANCE_MAJOR_CIVS" Description="LOC_START_DISTANCE_MAJOR_CIVS_DESCRIPTION" Domain="uint" Hash="0" DefaultValue="9" ConfigurationGroup="Map" ConfigurationId="StartDistanceMajorCivs" GroupId="MapOptions" SortIndex="2990"/>
+		<Replace ParameterId="StartDistanceMinorCivs" Name="LOC_START_DISTANCE_MINOR_CIVS" Description="LOC_START_DISTANCE_MINOR_CIVS_DESCRIPTION" Domain="uint" Hash="0" DefaultValue="5" ConfigurationGroup="Map" ConfigurationId="StartDistanceMinorCivs" GroupId="MapOptions" SortIndex="2991"/>
+		<Replace ParameterId="StartDistanceMinorMajorCivs" Name="LOC_START_DISTANCE_MINOR_MAJOR_CIVS" Description="LOC_START_DISTANCE_MINOR_MAJOR_CIVS_DESCRIPTION" Domain="uint" Hash="0" DefaultValue="7" ConfigurationGroup="Map" ConfigurationId="StartDistanceMinorMajorCivs" GroupId="MapOptions" SortIndex="2992"/>
+	</Parameters>
+</GameInfo>

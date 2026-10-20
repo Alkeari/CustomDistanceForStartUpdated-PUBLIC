@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+  
+    <Replace Tag="LOC_START_DISTANCE_MAJOR_CIVS" Language="en_US">
+      <Text>Min. starting distance between players</Text>
+    </Replace>
+    <Replace Tag="LOC_START_DISTANCE_MAJOR_CIVS_DESCRIPTION" Language="en_US">
+      <Text>Minimum starting distance between players. If set high (over 15), positioning may fail on certain maps and limit will be ignored for certain civs.</Text>
+    </Replace>
+  
+    <Replace Tag="LOC_START_DISTANCE_MINOR_CIVS" Language="en_US">
+      <Text>Min. distance between city-states</Text>
+    </Replace>
+    <Replace Tag="LOC_START_DISTANCE_MINOR_CIVS_DESCRIPTION" Language="en_US">
+      <Text>Minimum distance between city-states. If set high (over 10), positioning may fail on certain maps and less city-states will spawn.</Text>
+    </Replace>
+  
+    <Replace Tag="LOC_START_DISTANCE_MINOR_MAJOR_CIVS" Language="en_US">
+      <Text>Min. distance between players & city-states</Text>
+    </Replace>
+    <Replace Tag="LOC_START_DISTANCE_MINOR_MAJOR_CIVS_DESCRIPTION" Language="en_US">
+      <Text>Minimum distance between players & city-states. If set high (over 10), positioning may fail on certain maps and less city-states will spawn.</Text>
+    </Replace>
+	
+  </LocalizedText>
+</GameData>
